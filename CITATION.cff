@@ -1,0 +1,35 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Modelos para Previsão do Salário dos Jogadores da
+  Liga de Basquete NBA
+message: >-
+  O seguinte trabalho utilizou as técnicas Random
+  Forest Regressor e MLP Regressor para previsão dos
+  salários dos jogadores da NBA. O tratamento da base
+  de dados foi realizado com python e a comparação
+  dos modelos foi realizada utilizando as métricas de
+  regressão disponibilizadas pelo scitkit.learn.
+type: software
+authors:
+  - given-names: Rodrigo
+    family-names: Oliveira
+    email: rodrigo.santos.1428766@sga.pucminas.br
+    affiliation: PUC Minas
+    name-particle: de
+  - given-names: Lucas Rocha
+    name-particle: Van
+    family-names: Huysse
+    email: lhuysse@sga.pucminas.br
+    affiliation: PUC Minas
+  - given-names: Pedro Henrique Rodrigues
+    name-particle: da
+    family-names: Silva
+    email: pedro.silva1429338@sga.pucminas.br
+    affiliation: PUC Minas
+  - given-names: Caio Felix
+    family-names: Reis
+    email: 1429187@sga.pucminas.br
+    affiliation: PUC Minas
